@@ -12,7 +12,7 @@ st.sidebar.info(
 1. Paste the text document in the first box. For eg: *"Streamlit launches open-source machine learning application development framework
 Ron Miller@ron_miller / 12:00 pm EDT•October 1, 2019"*
 
-2. Try Creating a regular expression pattern to fit the word or string that you want to find. For example the twitter handle of Ron Miller
+2. Try Creating a regular expression pattern to fit the word or string that you want to find. For example the twitter handle of Ron Miller - "@[a-z_]+"
 3. Press Enter - the text **becomes bold** if your pattern is correct.
 """)
 
